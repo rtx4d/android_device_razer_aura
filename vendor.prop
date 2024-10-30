@@ -149,6 +149,7 @@ ro.telephony.default_network=22
 telephony.lteOnCdmaDevice=0
 
 # USB
+ro.usb.uvc.enabled=true
 vendor.usb.diag.func.name=diag
 vendor.usb.dpl.inst.name=dpl
 vendor.usb.qdss.inst.name=qdss
